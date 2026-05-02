@@ -1,0 +1,7 @@
+*.key
+*.pem
+*.agekey
+*.age
+*.log
+*.sha256
+*.tmp
